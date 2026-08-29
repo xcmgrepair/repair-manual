@@ -1,0 +1,11 @@
+{
+  "name": "徐工电动重卡维修手册",
+  "short_name": "徐工维修手册",
+  "description": "徐工电动重卡维修操作手册 - 移动端App",
+  "start_url": "./app.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#005cbf",
+  "background_color": "#1a2744",
+  "icons": []
+}
